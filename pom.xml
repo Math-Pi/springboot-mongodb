@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.neo</groupId>
-	<artifactId>spring-boot-mongodb</artifactId>
+	<artifactId>springboot-mongodb</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>spring-boot-mongodb</name>
+	<name>springboot-mongodb</name>
 	<description>Demo project for Spring Boot and mongodb</description>
 
 	<parent>
